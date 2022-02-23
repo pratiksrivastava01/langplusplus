@@ -1,11 +1,12 @@
 .header img {
     float: left;    
     margin: 15px;
-
 }
+
 .header h1 {
     overflow: hidden;
 }
+
 select {
     margin: 10px;
     width: 125px;
@@ -22,12 +23,14 @@ select {
     color: white;
     font-family: 'Roboto', sans-serif;
 }
+
 body {
     text-align: center;
     font-size: 25px;
     margin: 30px;
     overflow: hidden;
 }
+
 footer {
     position: fixed;
     right: 10px;
@@ -36,20 +39,24 @@ footer {
     text-align: end;
     font-size: 15px;
 }
+
 .ace_editor {
     border: 1px solid lightgray;
-		margin: auto;
-		height: 500px;
-		width: 80%;
+    margin: auto;
+    height: 500px;
+    width: 80%;
 }
+
 .scrollmargin {
-		height: 80px;
+    height: 80px;
     text-align: center;
 }
+
 .instructions {
-	margin-bottom: 15px;
-        font-family: 'Roboto', sans-serif;
-}
+    margin-bottom: 15px;
+    font-family: 'Roboto', sans-serif;
+} 
+
 .switch {
     cursor: pointer;
     text-align: right;
@@ -57,6 +64,7 @@ footer {
     margin-top: 5px;
     font-size: 25px;
 }
+
 .dark {
     background-color: #221f2a;
     color: #e6e6e6;
